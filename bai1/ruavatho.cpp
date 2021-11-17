@@ -25,5 +25,5 @@ int main(){
     printf("\nTho thang cuoc");
     else
     printf("\nTho va rua hoa");
-
+    printf("Chu Dat da o day!\n");
 }                                                         

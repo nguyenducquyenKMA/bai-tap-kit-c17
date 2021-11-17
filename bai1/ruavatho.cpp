@@ -26,4 +26,5 @@ int main(){
     else
     printf("\nTho va rua hoa");
     printf("Chu Dat da o day!\n");
+    printf("Co Dung da o day!\n");
 }                                                         
